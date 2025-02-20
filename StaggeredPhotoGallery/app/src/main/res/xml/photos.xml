@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<photos>
+    <photo>
+        <title>Black Cat</title>
+        <filename>black_cat</filename>
+    </photo>
+    <photo>
+        <title>Blue Flowers</title>
+        <filename>blue_flowers</filename>
+    </photo>
+    <photo>
+        <title>Firework</title>
+        <filename>firework</filename>
+    </photo>
+    <photo>
+        <title>Fireworks</title>
+        <filename>fireworks</filename>
+    </photo>
+    <photo>
+        <title>Flower</title>
+        <filename>flower</filename>
+    </photo>
+    <photo>
+        <title>Paint Book</title>
+        <filename>paint_book</filename>
+    </photo>
+    <photo>
+        <title>Purple Flowers</title>
+        <filename>purple_flowers</filename>
+    </photo>
+    <photo>
+        <title>Sea</title>
+        <filename>sea</filename>
+    </photo>
+    <photo>
+        <title>Shells</title>
+        <filename>shells</filename>
+    </photo>
+</photos>
